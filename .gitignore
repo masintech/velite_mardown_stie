@@ -92,3 +92,7 @@ pids
 # Temporary folders
 tmp/
 temp/
+
+
+# Vercel
+.vercel/
